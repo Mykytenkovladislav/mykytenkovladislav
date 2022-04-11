@@ -3,14 +3,14 @@
 
 - 🐝 I'm working as an **Automation QA** at **[@Studytube](https://www.studytube.nl/)**
 
-- 🌱 I'm writing mostly on JavaScript/TypeScript with [Cypress.io](https://www.cypress.io/)
+- 🌱 I'm writing mostly on JavaScript/TypeScript with **[Cypress.io](https://www.cypress.io/)**
 
 - 📜 I'm certified ISTQB manual
-  QA [Foundation level](https://zertdb.isqi.org/en/download/certificate/token/S91ER978sbX6Y3e6)
+  QA **[Foundation level](https://zertdb.isqi.org/en/download/certificate/token/S91ER978sbX6Y3e6)**
 
-- 👨‍🏫 I'm mentoring interns at [Vadym Ksendzov](https://ksendzov.com/) QA course
+- 👨‍🏫 I'm mentoring interns at **[Vadym Ksendzov](https://ksendzov.com/) QA course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mi4i0](https://github.com/mi4i0)
+- 👨‍💻 All of my projects are available at **[https://github.com/mi4i0](https://github.com/mi4i0)**
 
 - 💬 Ask me about **who is John Galt**
 
