@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Mykytenko </h1>
 <h3 align="center">Attentive to the details Automation QA from 🇺🇦Ukraine</h3>
 
-- 🐝 I work as an **Automation QA** at **[@Studytube](https://www.studytube.nl/)**
+- 🐝 I'm working as an **Automation QA** at **[@Studytube](https://www.studytube.nl/)**
 
 - 🌱 I'm writing mostly on JavaScript/TypeScript with [Cypress.io](https://www.cypress.io/)
 
