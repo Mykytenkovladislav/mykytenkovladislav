@@ -8,11 +8,11 @@
 - 📜 I'm certified ISTQB manual
   QA **[Foundation level](https://zertdb.isqi.org/en/download/certificate/token/S91ER978sbX6Y3e6)**
 
-- 👨‍🏫 I'm mentoring interns at **[Vadym Ksendzov](https://ksendzov.com/) QA course**
+- 👨‍🏫 I'm mentored interns at **[Vadym Ksendzov](https://ksendzov.com/) QA course**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/mi4i0](https://github.com/mi4i0)**
 
-- 💬 Ask me about **who is John Galt**
+- 💬 Ask me about **who is John Galt?**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
