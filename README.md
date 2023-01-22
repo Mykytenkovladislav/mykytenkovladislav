@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Mykytenko </h1>
 <h3 align="center">Attentive to the details Automation QA from Ukraine</h3>
 
-- 🐝 I'm working as an **Automation QA** at **[@Studytube](https://www.studytube.nl/)**
+- 🐝 I'm working as an **Lead Automation QA** at **[@Studytube](https://www.studytube.nl/)**
 
 - 🌱 I'm writing mostly on JavaScript/TypeScript with **[Cypress.io](https://www.cypress.io/)**
 
@@ -58,7 +58,13 @@ src="https://img.icons8.com/plasticine/100/000000/twitter--v1.png" width="65"/><
 
 <table>
       <tr>
-        <td>Jan 2022 - ...</td>
+        <td>Jan 2023 - now</td>
+        <td><a href="https://www.studytube.nl/">Studytube</a>.
+          Lead Automation QA Engineer
+        </td>
+      </tr>
+      <tr>
+        <td>Jan 2022 - Dec 2022</td>
         <td><a href="https://www.studytube.nl/">Studytube</a>.
           Automation QA Engineer
         </td>
